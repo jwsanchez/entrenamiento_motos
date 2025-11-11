@@ -213,9 +213,7 @@ def menu_principal():
 
 
 def mostrar_info_modelo():
-    """
-    Muestra información detallada sobre el modelo entrenado.
-    """
+
     print("\n" + "=" * 70)
     print("INFORMACIÓN DEL MODELO")
     print("=" * 70)
